@@ -1,0 +1,9 @@
+{
+	"properties": [
+		{
+			"name": "scheduler.scrap.yahoo",
+			"type": "java.lang.String",
+			"description": "cron properties for scheduler'"
+		}
+	]
+}
